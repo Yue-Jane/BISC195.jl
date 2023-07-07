@@ -1,4 +1,4 @@
-module BISC195.jl
+module BISC195
 
 export normalizeDNA
 export composition
