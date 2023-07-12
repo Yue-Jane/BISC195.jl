@@ -1,4 +1,4 @@
-using Assignment07
+using BISC195
 using Test
 
 @testset "Assignment07" begin
